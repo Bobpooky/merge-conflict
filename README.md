@@ -1,1 +1,2 @@
+REMOTE
 # merge-conflict
